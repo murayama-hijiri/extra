@@ -54,8 +54,8 @@
                             <div class="select_arrow no"></div>
                         </div>
                         <div class="result_drink">
-                            <img src="./img/名称未設定 4 1 (2).png" alt="">
-                            <img src="./img/名称未設定 2 1 (2).png" alt="">
+                            <img src="./img/can 4 1 (2).png" alt="">
+                            <img src="./img/can 2 1 (2).png" alt="">
                         </div>
                     </div>
                     <div class="bottom_area">
@@ -70,8 +70,8 @@
                             <div class="select_arrow no"></div>
                         </div>
                         <div class="result_drink">
-                            <img src="./img/名称未設定 2 1 (2).png" alt="">
-                            <img src="./img/名称未設定 4 1 (2).png" alt="">
+                            <img src="./img/can 2 1 (2).png" alt="">
+                            <img src="./img/can 4 1 (2).png" alt="">
                         </div>
                     </div>
                 </div>
@@ -88,8 +88,8 @@
                             <div class="select_arrow no"></div>
                         </div>
                         <div class="result_drink">
-                            <img src="./img/名称未設定 3 1 (2).png" alt="">
-                            <img src="./img/名称未設定 2 1 (2).png" alt="">
+                            <img src="./img/can 3 1 (2).png" alt="">
+                            <img src="./img/can 2 1 (2).png" alt="">
                         </div>
                     </div>
                     <div class="bottom_area">
@@ -104,8 +104,8 @@
                             <div class="select_arrow no"></div>
                         </div>
                         <div class="result_drink">
-                            <img src="./img/名称未設定 4 1 (2).png" alt="">
-                            <img src="./img/名称未設定 3 1 (2).png" alt="">
+                            <img src="./img/can 4 1 (2).png" alt="">
+                            <img src="./img/can 3 1 (2).png" alt="">
                         </div>
                     </div>
                 </div>
@@ -161,7 +161,7 @@
                         <p>Berry</p>
                         <p>Delight</p>
                     </div>
-                    <img src="../img/名称未設定 2 1 (3).png" alt="">
+                    <img src="../img/can 2 1 (3).png" alt="">
                 </div>
                 <div class="sp_choice_result GreenFusionBlast">
                     <div class="sp_choice_result_text en_name product_2">
@@ -169,7 +169,7 @@
                         <p>Fusion</p>
                         <p>Blast</p>
                     </div>
-                    <img src="../img/名称未設定 3 1 (3).png" alt="">
+                    <img src="../img/can 3 1 (3).png" alt="">
                 </div>
                 <div class="sp_choice_result HotBlazeBlast">
                     <div class="sp_choice_result_text en_name product_3">
@@ -177,7 +177,7 @@
                         <p>Blaze</p>
                         <p>Blast</p>
                     </div>
-                    <img src="../img/名称未設定 4 1 (3).png" alt="">
+                    <img src="../img/can 4 1 (3).png" alt="">
                 </div>
             </div>
         </div>
@@ -191,7 +191,7 @@
                             <p>Delight</p>
                         </div>
                     </div>
-                    <img src="../img/名称未設定 2 1 (1).png" alt="">
+                    <img src="../img/can 2 1 (1).png" alt="">
                 </div>
                 <div class="product_bottom">
                     <p class="product_name">ミクストベリーディライト</p>
@@ -209,7 +209,7 @@
                             <p>Blast</p>
                         </div>
                     </div>
-                    <img src="../img/名称未設定 3 1.png" alt="">
+                    <img src="../img/can 3 1.png" alt="">
                 </div>
                 <div class="product_bottom">
                     <p class="product_name">グリーンフュージョンブラスト</p>
@@ -227,7 +227,7 @@
                             <p>Inferno</p>
                         </div>
                     </div>
-                    <img src="../img/名称未設定 4 1.png" alt="">
+                    <img src="../img/can 4 1.png" alt="">
                 </div>
                 <div class="product_bottom">
                     <p class="product_name">ホットブレイズインフェルノ</p>

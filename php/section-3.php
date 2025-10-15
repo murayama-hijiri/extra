@@ -5,7 +5,7 @@
     <div class="content_wrapper">
         <div class="section_3_content">
             <div class="animation_area">
-                <img src="../img/_饑1.png" alt="" class="check_box_img">
+                <img src="../img/man.png" alt="" class="check_box_img">
                 <img src="../img/Group 20.png" alt="吹き出し画像" class="check_box_text check_box_1">
                 <img src="../img/Group 21.png" alt="吹き出し画像" class="check_box_text check_box_2">
                 <img src="../img/Group 22.png" alt="吹き出し画像" class="check_box_text check_box_3">

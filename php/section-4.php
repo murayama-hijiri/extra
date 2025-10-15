@@ -13,8 +13,8 @@
         </div>
         <div class="section_4_text_content">
             <div class="logo_area">
-                <img src="../img/名称未設定 1 2.png" alt="" class="img_1">
-                <img src="../img/_レイヤー_1 (2).png" alt="" class="img_2">
+                <img src="../img/can 1 2.png" alt="" class="img_1">
+                <img src="../img/layer(2).png" alt="" class="img_2">
             </div>
             <div class="text_area">
                 <p>
