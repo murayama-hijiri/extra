@@ -16,22 +16,22 @@
     <title>エクストラ課題</title>
 </head>
 <body>
-<?php include("./php/article.php"); ?>
-<?php include("./php/modal.php"); ?>
-<?php include("./php/section-1.php"); ?>
-<?php include("./php/section-2.php"); ?>
-<?php include("./php/section-3.php"); ?>
-<?php include("./php/section-4.php"); ?>
-<?php include("./php/section-5.php"); ?>
-<?php include("./php/section-6.php"); ?>
-<?php include("./php/section-7.php"); ?>
-<?php include("./php/section-8.php"); ?>
-<?php include("./php/section-9.php"); ?>
-<?php include("./php/section-10.php"); ?>
-<?php include("./php/section-11.php"); ?>
-<?php include("./php/section-12.php"); ?>
-<?php include("./php/section-13.php"); ?>
-<?php include("./php/footer.php"); ?>
+<?php include( __DIR__ . "/php/article.php"); ?>
+<?php include( __DIR__ . "/php/modal.php"); ?>
+<?php include( __DIR__ . "/php/section-1.php"); ?>
+<?php include( __DIR__ . "/php/section-2.php"); ?>
+<?php include( __DIR__ . "/php/section-3.php"); ?>
+<?php include( __DIR__ . "/php/section-4.php"); ?>
+<?php include( __DIR__ . "/php/section-5.php"); ?>
+<?php include( __DIR__ . "/php/section-6.php"); ?>
+<?php include( __DIR__ . "/php/section-7.php"); ?>
+<?php include( __DIR__ . "/php/section-8.php"); ?>
+<?php include( __DIR__ . "/php/section-9.php"); ?>
+<?php include( __DIR__ . "/php/section-10.php"); ?>
+<?php include( __DIR__ . "/php/section-11.php"); ?>
+<?php include( __DIR__ . "/php/section-12.php"); ?>
+<?php include( __DIR__ . "/php/section-13.php"); ?>
+<?php include( __DIR__ . "/php/footer.php"); ?>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://unpkg.com/three@0.147.0/build/three.min.js"></script>

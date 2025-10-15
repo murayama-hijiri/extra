@@ -5,16 +5,16 @@
         </div>
         <div class="slider">
             <div id="slider" class="beer-slider" data-beer-label="AFTER">
-                <img src="../img/Mask group (26).png" alt="">
+                <img src="./img/Maskgroup(26).png" alt="">
                 <div class="beer-reveal" data-beer-label="BEFORE">
-                    <img src="../img/Mask group (27).png" alt="">
+                    <img src="./img/Maskgroup(27).png" alt="">
                 </div>
             </div>
         </div>
         <div class="section_4_text_content">
             <div class="logo_area">
-                <img src="../img/can 1 2.png" alt="" class="img_1">
-                <img src="../img/layer(2).png" alt="" class="img_2">
+                <img src="./img/can-1-2.png" alt="" class="img_1">
+                <img src="./img/layer(2).png" alt="" class="img_2">
             </div>
             <div class="text_area">
                 <p>

@@ -5,7 +5,7 @@
     <div class=" content_wrapper">
         <div class="energy_drink_area">
             <div class="fixed_text">
-                <img src="../img/Group 17.png" alt="">
+                <img src="./img/Group17.png" alt="">
             </div>
             <div class="energy_drink_name fade_in" id ="Mixed">
                 <span>Mixed</span>
@@ -27,7 +27,7 @@
                     <div class="energy_drink">
                         <div class="energy_drink_object">
                             <div class="back"></div>
-                            <img src="../img/can 2 1.png" alt="">
+                            <img src="./img/can-2-1.png" alt="">
                         </div>
                         <div class="energy_drink_object_name">
                             <p>ミクストベリーディライト</p>
@@ -49,7 +49,7 @@
                     <div class="energy_drink">
                         <div class="energy_drink_object">
                             <div class="back"></div>
-                            <img src="../img/can 3 2.png" alt="">
+                            <img src="./img/can-3-2.png" alt="">
                         </div>
                         <div class="energy_drink_object_name">
                             <p>グリーンフュージョンブラスト</p>
@@ -71,7 +71,7 @@
                     <div class="energy_drink">
                         <div class="energy_drink_object">
                             <div class="back"></div>
-                            <img src="../img/can 4 1 (4).png" alt="">
+                            <img src="./img/can-4-1-(4).png" alt="">
                         </div>
                         <div class="energy_drink_object_name">
                             <p>ホットブレイズインフェルノ</p>

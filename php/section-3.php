@@ -5,11 +5,11 @@
     <div class="content_wrapper">
         <div class="section_3_content">
             <div class="animation_area">
-                <img src="../img/man.png" alt="" class="check_box_img">
-                <img src="../img/Group 20.png" alt="吹き出し画像" class="check_box_text check_box_1">
-                <img src="../img/Group 21.png" alt="吹き出し画像" class="check_box_text check_box_2">
-                <img src="../img/Group 22.png" alt="吹き出し画像" class="check_box_text check_box_3">
-                <img src="../img/Group 23.png" alt="吹き出し画像" class="check_box_text check_box_4">
+                <img src="./img/man.png" alt="" class="check_box_img">
+                <img src="./img/Group20.png" alt="吹き出し画像" class="check_box_text check_box_1">
+                <img src="./img/Group21.png" alt="吹き出し画像" class="check_box_text check_box_2">
+                <img src="./img/Group22.png" alt="吹き出し画像" class="check_box_text check_box_3">
+                <img src="./img/Group23.png" alt="吹き出し画像" class="check_box_text check_box_4">
             </div>
             <div class="check_box_area">
                 <ul>

@@ -81,9 +81,9 @@ $(function () {
     // 店舗情報
     const salesStore = {
         hokkaido: {
-            slide1: "./img/Mask group (32).png",
-            slide2: "./img/Mask group (39).png",
-            slide3: "./img/Mask group (41).png",
+            slide1: "./img/Maskgroup(32).png",
+            slide2: "./img/Maskgroup(39).png",
+            slide3: "./img/Maskgroup(41).png",
             store_name: "グローバル・グルメ・マーケット 札幌店",
             store_address: "〒060-0001 北海道札幌市中央区ユートピア大通1-2-3",
             store_tel: "TEL:000-0000-0000",
@@ -255,19 +255,19 @@ $(function () {
     const callback = (entries) => {
         const article_data = [
             {
-                img: "./img/Mask group (36).png",
+                img: "./img/Maskgroup(36).png",
                 date: "2023/00/00",
                 title: "エナジードリンクの歴史と未来",
                 text: "エナジードリンクの進化と未来展望を探ります。",
             },
             {
-                img: "./img/Mask group (37).png",
+                img: "./img/Maskgroup(37).png",
                 date: "2023/00/00",
                 title: "ストレス対策にエナジードリンクは役立つか？",
                 text: "ストレス軽減にエナジードリンクの可能性を考察。",
             },
             {
-                img: "./img/Mask group (38).png",
+                img: "./img/Maskgroup(38).png",
                 date: "2023/00/00",
                 title: "アスリートのためのエナジードリンクの最適な利用法",
                 text: "競技者向けのエナジードリンクの最適な使い方。",
