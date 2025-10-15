@@ -1,7 +1,7 @@
 <div class="article_modal">
     <div class="article_modal_title">
         <div class="article_modal_logo">
-            <img src="./img/_レイヤー_1 (4).png" alt="">
+            <img src="./img/layer(4).png" alt="">
         </div>
         <div class="article_modal_text">
             <p>PRODUCT</p>
@@ -14,7 +14,7 @@
                 <li>
                     <div class="article_box">
                         <div class="article_thumbnail">
-                            <img src="./img/Mask group (36).png" alt="">
+                            <img src="./img/Maskgroup(36).png" alt="">
                         </div>
                         <div class="article_box_bottom">
                             <div class="article_date">
@@ -30,7 +30,7 @@
                     </div>
                     <div class="article_box">
                         <div class="article_thumbnail">
-                            <img src="./img/Mask group (37).png" alt="">
+                            <img src="./img/Maskgroup(37).png" alt="">
                         </div>
                         <div class="article_box_bottom">
                             <div class="article_date">
@@ -46,7 +46,7 @@
                     </div>
                     <div class="article_box">
                         <div class="article_thumbnail">
-                            <img src="./img/Mask group (38).png" alt="">
+                            <img src="./img/Maskgroup(38).png" alt="">
                         </div>
                         <div class="article_box_bottom">
                             <div class="article_date">
@@ -64,7 +64,7 @@
                 <li>
                     <div class="article_box">
                         <div class="article_thumbnail">
-                            <img src="./img/Mask group (36).png" alt="">
+                            <img src="./img/Maskgroup(36).png" alt="">
                         </div>
                         <div class="article_box_bottom">
                             <div class="article_date">
@@ -80,7 +80,7 @@
                     </div>
                     <div class="article_box">
                         <div class="article_thumbnail">
-                            <img src="./img/Mask group (37).png" alt="">
+                            <img src="./img/Maskgroup(37).png" alt="">
                         </div>
                         <div class="article_box_bottom">
                             <div class="article_date">
@@ -96,7 +96,7 @@
                     </div>
                     <div class="article_box">
                         <div class="article_thumbnail">
-                            <img src="./img/Mask group (38).png" alt="">
+                            <img src="./img/Maskgroup(38).png" alt="">
                         </div>
                         <div class="article_box_bottom">
                             <div class="article_date">
@@ -114,7 +114,7 @@
                 <li>
                     <div class="article_box">
                         <div class="article_thumbnail">
-                            <img src="./img/Mask group (36).png" alt="">
+                            <img src="./img/Maskgroup(36).png" alt="">
                         </div>
                         <div class="article_box_bottom">
                             <div class="article_date">
@@ -130,7 +130,7 @@
                     </div>
                     <div class="article_box">
                         <div class="article_thumbnail">
-                            <img src="./img/Mask group (37).png" alt="">
+                            <img src="./img/Maskgroup(37).png" alt="">
                         </div>
                         <div class="article_box_bottom">
                             <div class="article_date">
@@ -146,7 +146,7 @@
                     </div>
                     <div class="article_box">
                         <div class="article_thumbnail">
-                            <img src="./img/Mask group (38).png" alt="">
+                            <img src="./img/Maskgroup(38).png" alt="">
                         </div>
                         <div class="article_box_bottom">
                             <div class="article_date">

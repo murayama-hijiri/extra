@@ -10,7 +10,7 @@
             </div>
         </div>
         <div class="top_page_catch_copy">
-            <img src="../img/Group 1.png" alt="" class="text">
+            <img src="../img/Group1.png" alt="" class="text">
             <img src="../img/layer(1).png" alt="" class="back">
         </div>
         <div class="top_page_text">

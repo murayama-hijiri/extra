@@ -9,7 +9,7 @@
         </div>
         <div class="form_top_content">
             <div class="logo">
-                <img src="./img/23_infinityenergy 1.png" alt="">
+                <img src="./img/23_infinityenergy1.png" alt="">
             </div>
             <div class="form_top_inline_content">
                 <p class="present_title">
@@ -31,7 +31,7 @@
             <div class="search_address_modal">
                 <div class="search_address_modal_top">
                     <div class="back">
-                        <img src="./img/Vector (3).png" alt="">
+                        <img src="./img/Vector(3).png" alt="">
                     </div>
                     <p>郵便番号入力</p>
                 </div>
@@ -50,7 +50,7 @@
             <div class="search_address_select_modal">
                 <div class="search_address_modal_top">
                     <div class="back">
-                        <img src="./img/Vector (3).png" alt="">
+                        <img src="./img/Vector(3).png" alt="">
                     </div>
                     <p>住所検索</p>
                 </div>

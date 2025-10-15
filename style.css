@@ -31,7 +31,7 @@
 } */
 /* トップページ */
 .top_page {
-    background-image: url("./img/Mask group (23).png");
+    background-image: url("./img/Maskgroup(23).png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -149,7 +149,7 @@
     height: 8000px;
 }
 .section_2 {
-    background-image: url("./img/Mask group (24).png");
+    background-image: url("./img/Maskgroup(24).png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -456,7 +456,7 @@
     width: 100%;
     height: 176px;
     position: relative;
-    background-image: url("./img/INFINITY\ ENERGY.png");
+    background-image: url("./img/INFINITYENERGY.png");
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -603,7 +603,7 @@
 }
 @media screen and (max-width: 650px) {
     .section_3_title {
-        background-image: url("./img/INFINITY ENERGY (1).png");
+        background-image: url("./img/INFINITYENERGY(1).png");
         height: 133px;
     }
 }
@@ -729,7 +729,7 @@
 }
 .beer-handle {
     transform: translate3d(-55%, -50%, 0) !important;
-    background-image: url("./img/Group 25 (1).png") !important;
+    background-image: url("./img/Group25(1).png") !important;
     background-position: center !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
@@ -989,7 +989,7 @@
 }
 .card_1_wrapper {
     width: 53.75%;
-    background: #0085ff url("../img/Mask group (28).png");
+    background: #0085ff url("../img/Maskgroup(28).png");
     background-blend-mode: difference;
     background-size: cover;
     background-position: center;
@@ -997,7 +997,7 @@
 }
 .card_2_wrapper {
     width: 46.25%;
-    background: #0085ff url("../img/Mask group (29).png");
+    background: #0085ff url("../img/Maskgroup(29).png");
     background-blend-mode: difference;
     background-size: cover;
     background-position: center;
@@ -1005,7 +1005,7 @@
 }
 .card_3_wrapper {
     width: 100%;
-    background: #0085ff url("../img/Mask group (30).png");
+    background: #0085ff url("../img/Maskgroup(30).png");
     background-blend-mode: difference;
     background-size: cover;
     background-position: center;
@@ -1013,7 +1013,7 @@
 }
 .card_4_wrapper {
     width: 38%;
-    background: #0085ff url("../img/Mask group (31).png");
+    background: #0085ff url("../img/Maskgroup(31).png");
     background-blend-mode: difference;
     background-size: cover;
     background-position: center;
@@ -1231,13 +1231,13 @@
     left: 0px;
 }
 .swiper-button-prev::after {
-    background-image: url("./img/Polygon 4 (5).png");
+    background-image: url("./img/Polygon4(5).png");
     background-repeat: no-repeat;
     background-position: 50%, 50%;
 }
 /* 次に進む矢印の画像パスと表示位置 */
 .swiper-button-next::after {
-    background-image: url("./img/Polygon 3 (1).png");
+    background-image: url("./img/Polygon3(1).png");
     background-repeat: no-repeat;
     background-position: 50%, 50%;
 }
@@ -1445,7 +1445,7 @@ path.select {
 }
 /* セクション9 */
 .section_9 {
-    background-image: url("./img/Mask group (35).png");
+    background-image: url("./img/Maskgroup(35).png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -3169,7 +3169,7 @@ footer {
 .img {
     width: 500px;
     height: 500px;
-    background: #0085ff url("../img/Mask group (31).png");
+    background: #0085ff url("../img/Maskgroup(31).png");
     background-blend-mode: difference;
     background-size: cover;
     background-position: center;

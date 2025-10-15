@@ -1,6 +1,6 @@
 <footer class="lock">
     <div class="footer_logo">
-        <img src="./img/_レイヤー_1 (3).png" alt="">
+        <img src="./img/layer(3).png" alt="">
     </div>
     <div class="footer_content_flex">
         <div class="sns">

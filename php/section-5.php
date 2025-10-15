@@ -53,7 +53,7 @@
                             250ml
                         </p>
                     </div>
-                    <img src="../img/can 2 1 (1).png" alt="">
+                    <img src="../img/can-2-1-(1).png" alt="">
                 </div>
                 <div class="product_bottom">
                     <p class="product_name">ミクストベリーディライト</p>
@@ -82,7 +82,7 @@
                             250ml
                         </p>
                     </div>
-                    <img src="../img/can 3 1.png" alt="">
+                    <img src="../img/can-3-1.png" alt="">
                 </div>
                 <div class="product_bottom">
                     <p class="product_name">グリーンフュージョンブラスト</p>
@@ -111,7 +111,7 @@
                             250ml
                         </p>
                     </div>
-                    <img src="../img/can 4 1.png" alt="">
+                    <img src="../img/can-4-1.png" alt="">
                 </div>
                 <div class="product_bottom">
                     <p class="product_name">ホットブレイズインフェルノ</p>
