@@ -71,7 +71,11 @@
                     <div class="energy_drink">
                         <div class="energy_drink_object">
                             <div class="back"></div>
+<<<<<<< HEAD
                             <img src="./img/can-4-1-(4).png" alt="">
+=======
+                            <img src="../img/can-4-1-(4).png" alt="">
+>>>>>>> origin/main
                         </div>
                         <div class="energy_drink_object_name">
                             <p>ホットブレイズインフェルノ</p>
